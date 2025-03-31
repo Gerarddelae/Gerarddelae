@@ -1,38 +1,28 @@
-# 👋 ¡Hola! Soy Gerardo 
+# 👋 ¡Hola! Soy Gerardo  
 
-🔹 Ingeniero Civil |🔹 Desarrollador Web | 🔹 Python & Flask | 🔹 JavaScript
+🚀 **Ingeniero Civil | Desarrollador Web | Python & Flask | JavaScript**  
 
-🚀 Me encanta trabajar en proyectos de software y mejorar mis habilidades cada día.  
+Me apasiona la construcción y la tecnología. He combinado mi experiencia en ingeniería civil con el desarrollo de software para crear soluciones innovadoras y eficientes.  
 
-🌱 Actualmente estoy aprendiendo:  
-- 🏨 Desarrollo de sistemas de gestión hotelera 
-- 📊 Integración de chatbots con LangChain   
+---
 
-📫 **Contáctame:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gerardodelae)  
-📧 **Email:** gerardmoe@hotmail.com  
+## 🌱 Actualmente Estoy Aprendiendo
+📌 **Desarrollo fullstack de aplicaciones web**  
+📌 **Integración de chatbots y agentes con LangChain**  
 
 ---
 
 ## 🚀 Proyectos Destacados  
 
-### 🏨 HOTEL-SPA (sistema de gestion de reservas para hoteles en formato single page application) 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Visitar%20Repositorio-blue?style=for-the-badge&logo=github)](https://github.com/gerarddelae/hotel-spa)  
+### 🏨 HOTEL-SPA  
+📌 **Sistema de gestión de reservas para hoteles en formato SPA (Single Page Application)**  
+
+[![Visitar Repositorio](https://img.shields.io/badge/GitHub-Visitar%20Repositorio-blue?style=for-the-badge&logo=github)](https://github.com/gerarddelae/hotel-spa)  
 ![Lenguajes](https://img.shields.io/github/languages/top/gerarddelae/hotel-spa?color=blue)  
 ![Última actualización](https://img.shields.io/github/last-commit/gerarddelae/hotel-spa)  
 ![Tamaño del repositorio](https://img.shields.io/github/repo-size/gerarddelae/hotel-spa)  
 
----
-
-## 📈 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=gerarddelae&show_icons=true&theme=dark)  
-
-![Resumen de actividad](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerarddelae&theme=github_dark)  
-
----
-
-## 🛠️ Tecnologías y Herramientas  
-
+🛠 **Tecnologías utilizadas:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -42,4 +32,28 @@
 
 ---
 
-🔹 **Gracias por visitar mi perfil!** Si te gusta mi trabajo, ¡no dudes en conectarte conmigo o seguirme! 🚀😃  
+## 📈 Estadísticas de GitHub  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gerarddelae&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gerarddelae&theme=github_dark" alt="Repos por Lenguaje" width="48%" />
+</div>
+
+---
+
+## 🔧 Tecnologías y Herramientas  
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,js,html,css,git,github" alt="Tecnologías" />
+</div>
+
+---
+
+## 📫 Contáctame  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gerardodelae)  
+📧 **Email:** gerardmoe@hotmail.com  
+
+---
+
+💡 **Gracias por visitar mi perfil!**  
+Si te gusta mi trabajo, **¡no dudes en conectarte conmigo o seguirme!** 🚀😃  
