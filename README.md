@@ -32,6 +32,23 @@ Me apasiona la construcción y la tecnología. He combinado mi experiencia en in
 
 ---
 
+### 🤖 HOTEL-SQL-AGENT  
+📌 **Agente de IA para consultas SQL en gestión hotelera, construido con gemma 3 y chainlit/langchain**  
+
+[![Visitar Repositorio](https://img.shields.io/badge/GitHub-Visitar%20Repositorio-blue?style=for-the-badge&logo=github)](https://github.com/Gerarddelae/Hotel-SQL-Agent)  
+![Lenguajes](https://img.shields.io/github/languages/top/Gerarddelae/Hotel-SQL-Agent?color=blue)  
+![Última actualización](https://img.shields.io/github/last-commit/Gerarddelae/Hotel-SQL-Agent)  
+![Tamaño del repositorio](https://img.shields.io/github/repo-size/Gerarddelae/Hotel-SQL-Agent)  
+
+🛠 **Tecnologías utilizadas:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Chainlit](https://img.shields.io/badge/Chainlit-00BFFF?style=for-the-badge&logo=chainlit&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white)  
+![Ollama](https://img.shields.io/badge/Ollama-4A90E2?style=for-the-badge&logo=ollama&logoColor=white)  
+![Gemma 3](https://img.shields.io/badge/Gemma%203-800080?style=for-the-badge&logo=gemma&logoColor=white)  
+
+
 ## 📈 Estadísticas de GitHub  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gerarddelae&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
