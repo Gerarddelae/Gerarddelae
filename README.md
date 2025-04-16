@@ -7,7 +7,8 @@ Me apasiona la construcción y la tecnología. He combinado mi experiencia en in
 ---
 
 ## 🌱 Actualmente Estoy Aprendiendo
-📌 **Desarrollo fullstack de aplicaciones web**  
+📌 **Desarrollo fullstack de aplicaciones web** 
+📌 **Angular v19 y Spring Boot**  
 📌 **Integración de chatbots y agentes con LangChain**  
 
 ---
