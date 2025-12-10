@@ -39,7 +39,6 @@ Combino mi experiencia en ingeniería civil con mi formación tecnológica para 
 - 📊 Dashboard con métricas en tiempo real  
 - 🤖 Predicción de cancelaciones con ML (scikit-learn)  
 - 📅 Calendario interactivo de reservas  
-- 💰 Sistema de facturación integrado  
 
 ---
 
