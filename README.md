@@ -1,19 +1,47 @@
 # 👋 ¡Hola! Soy Gerardo  
 
-🚀 **Ingeniero Civil | Desarrollador Web | Python & Flask | JavaScript**  
+🚀 Estudiante de Tecnología en Desarrollo de Software | Ingeniero Civil | Apasionado por la innovación
 
-Me apasiona la construcción y la tecnología. He combinado mi experiencia en ingeniería civil con el desarrollo de software para crear soluciones innovadoras y eficientes.  
+Actualmente estoy estudiando un Tecnólogo en Desarrollo de Software, donde consolido mis bases como programador y fortalezco mi enfoque en el desarrollo de aplicaciones web y soluciones basadas en IA.
+Combino mi experiencia en ingeniería civil con mi formación tecnológica para crear soluciones eficientes, escalables y orientadas a resolver problemas reales.
 
 ---
 
 ## 🌱 Actualmente Estoy Aprendiendo
-📌 **Desarrollo fullstack de aplicaciones web**  
-📌 **Angular v19 y Spring Boot**  
-📌 **Integración de chatbots y agentes con LangChain**  
-
+📌 **Angular v20 y Spring Boot 3**  
+📌 **Machine Learning y Deep Learning (principalmente LLMs)**  
+📌 **Arquitectura de Microservicios**   
+📌 **Desarrollo de agentes con IA** 
 ---
 
 ## 🚀 Proyectos Destacados  
+
+### 🏨 MAGUESTIC - Sistema de Gestión Hotelera  
+📌 **Sistema integral de gestión hotelera con predicción de cancelaciones mediante Machine Learning**  
+
+[![Visitar Repositorio](https://img.shields.io/badge/GitHub-Visitar%20Repositorio-blue?style=for-the-badge&logo=github)](https://github.com/gerarddelae/hotel-spring-angular)  
+![Lenguajes](https://img.shields.io/github/languages/top/gerarddelae/hotel-spring-angular?color=blue)  
+![Última actualización](https://img.shields.io/github/last-commit/gerarddelae/hotel-spring-angular)  
+![Tamaño del repositorio](https://img.shields.io/github/repo-size/gerarddelae/hotel-spring-angular)  
+
+🛠 **Tecnologías utilizadas:**  
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+✨ **Características destacadas:**  
+- 🔐 Autenticación JWT con control de roles  
+- 📊 Dashboard con métricas en tiempo real  
+- 🤖 Predicción de cancelaciones con ML (scikit-learn)  
+- 📅 Calendario interactivo de reservas  
+- 💰 Sistema de facturación integrado  
+
+---
 
 ### 🏨 HOTEL-SPA  
 📌 **Sistema de gestión de reservas para hoteles en formato SPA (Single Page Application)**  
